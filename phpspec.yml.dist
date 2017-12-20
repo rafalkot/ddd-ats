@@ -1,0 +1,12 @@
+suites:
+    ats_shared_kernel:
+            namespace: Ats\SharedKernel
+            spec_prefix: Spec
+            spec_path: ./src/Ats/SharedKernel/Tests
+            src_path: ./src
+
+    ats_applicant_tracking:
+        namespace: Ats\ApplicantTracking
+        spec_prefix: Spec
+        spec_path: ./src/Ats/ApplicantTracking/Tests
+        src_path: ./src

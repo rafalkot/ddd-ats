@@ -1,0 +1,4 @@
+services:
+#    applicant_tracking.example:
+#        class: ApplicantTrackingBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

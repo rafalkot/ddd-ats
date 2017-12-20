@@ -1,0 +1,5 @@
+applicant_tracking:
+    resource: "@ApplicantTrackingBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
